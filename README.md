@@ -1,5 +1,5 @@
 # NFSMW Motion Blur Controller
-NNFSMW Motion Blur Controller is a mod which tweaks the Motion Blur effect of the vanilla game.
+NFSMW Motion Blur Controller is a mod which tweaks the Motion Blur effect of the vanilla game.
 
 Features:
 - Modify Motion Blur Strength
