@@ -2,10 +2,10 @@
 NFSMW Motion Blur Controller is a mod which tweaks the Motion Blur effect of the vanilla game.
 
 Features:
-- Toggle Motion Blur
+- Toggle Motion Blur (Widescreen Fix and Vanilla Implementation)
 - Modify Motion Blur Strength
 - Modify Effective Speed
-- Reload The Configuration Any Time via Hotkey (F3 by default)
+- Reload The Configuration Any Time Automatically
 
 Note: Motion blur should be enabled in game config/registry for this mod to take effect.
 
