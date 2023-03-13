@@ -51,8 +51,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,0,1,1337
- PRODUCTVERSION 1,0,1,1337
+ FILEVERSION 1,1,0,1337
+ PRODUCTVERSION 1,1,0,1337
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -69,12 +69,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "nlgxzef"
             VALUE "FileDescription", "NFS Most Wanted Motion Blur Controller"
-            VALUE "FileVersion", "1.0.1.1337"
+            VALUE "FileVersion", "1.1.0.1337"
             VALUE "InternalName", "NFSMWMotionBlurController.asi"
             VALUE "LegalCopyright", "© 2023 nlgxzef. No rights reserved."
             VALUE "OriginalFilename", "NFSMWMotionBlurController.asi"
             VALUE "ProductName", "NFS Most Wanted Motion Blur Controller"
-            VALUE "ProductVersion", "1.0.1.1337"
+            VALUE "ProductVersion", "1.1.0.1337"
         END
     END
     BLOCK "VarFileInfo"

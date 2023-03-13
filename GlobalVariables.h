@@ -1,7 +1,9 @@
 #pragma once
 
+CIniReader Settings("NFSMWMotionBlurControllerSettings.ini");
+
 bool MotionBlur = 1;
-int hotkeyReloadConfig = VK_F3;
+bool g_MotionBlurEnable = 1;
 int ThreadDelay = 5;
 
 float MotionBlurAmount = 0.25f; // 1.10f in vanilla game
