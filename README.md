@@ -15,6 +15,7 @@ Note: Motion blur should be enabled in game config/registry for this mod to take
 # Credits
 - [Aero](https://www.github.com/AeroWidescreen)
 - [ThirteenAG](https://www.github.com/ThirteenAG)
+- [ThomasMonkman](https://www.github.com/ThomasMonkman)
 
 # Download
 To download, please check out the [releases page](https://www.github.com/nlgxzef/NFSMWMotionBlurController/releases).
